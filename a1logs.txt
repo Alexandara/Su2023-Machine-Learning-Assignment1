@@ -134,3 +134,112 @@ Learn Rate: 8e-12
 Starting Weights (all): 10
 Iterations: 20000
 Error: 79607.0297612639
+Regression Attempted at 2023-06-08 17:51:33.953550
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15000
+Error: 8687.22170745843
+Regression Attempted at 2023-06-08 17:56:31.282054
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 16000
+Error: 17159.3360034952
+Regression Attempted at 2023-06-08 18:00:56.180000
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15500
+Error: 12566.28839830043
+Regression Attempted at 2023-06-08 18:07:04.945349
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15300
+Error: 10928.984012241293
+Regression Attempted at 2023-06-08 18:11:24.194147
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15100
+Error: 9405.916572478616
+Regression Attempted at 2023-06-08 18:16:08.595768
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15000
+Error: 8687.22170745843
+CHANGED LOSS FUNCTION
+Regression Attempted at 2023-06-08 18:19:33.680821
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15000
+Error: nan
+Regression Attempted at 2023-06-08 18:23:05.576010
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15000
+Error: inf
+Regression Attempted at 2023-06-08 18:25:45.231504
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 150
+Error: 8.195170756724318e+61
+Regression Attempted at 2023-06-08 18:29:39.157593
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 0.0008
+Starting Weights (all): 10
+Iterations: 150
+Error: nan
+Regression Attempted at 2023-06-08 18:31:23.914131
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 0.0008
+Starting Weights (all): 0
+Iterations: 150
+Error: nan
+Regression Attempted at 2023-06-08 18:31:34.718304
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-14
+Starting Weights (all): 0
+Iterations: 150
+Error: 1.1262092181842265
+Regression Attempted at 2023-06-08 18:31:59.058513
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-14
+Starting Weights (all): 0
+Iterations: 200
+Error: 1.215699272860298
+Regression Attempted at 2023-06-08 18:32:16.762987
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-15
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9730679758990706
+Regression Attempted at 2023-06-08 18:32:26.502814
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-15
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9730679758990706
+Regression Attempted at 2023-06-08 18:32:39.444693
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-16
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9626541330688536
+Regression Attempted at 2023-06-08 18:33:55.729812
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9615385727021738
+Regression Attempted at 2023-06-08 18:34:26.883938
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9615385727021738

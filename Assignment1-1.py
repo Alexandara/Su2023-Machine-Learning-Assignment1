@@ -59,7 +59,7 @@ def ssr_gradient(x, w, lr):
           + w[4] * x['CACH'] \
           + w[5] * x['CHMIN'] \
           + w[6] * x['CHMAX']
-    loss = x['PRP']
+    loss = x['PRP'] - y_pred
     ly = 2 * loss
     yw0 = 1
     yw1 = x['MYCT']
@@ -75,7 +75,7 @@ def ssr_gradient(x, w, lr):
     w4up = w[4] - lr * (ly * yw4)
     w5up = w[5] - lr * (ly * yw5)
     w6up = w[6] - lr * (ly * yw6)
-    return np.array([w0up, w1up, w2up, w3up, w4up, w5up, w6up]), loss
+    return np.array([w0up, w1up, w2up, w3up, w4up, w5up, w6up], dtype='float128'), loss
 def gradient_descent(
      gradient, X, y, start, learn_rate=0.1, n_iter=50, tolerance=1e-06
  ):
@@ -89,14 +89,16 @@ def gradient_descent(
                 go = False
         if go == False:
             break
+    print(vector)
     return vector
 
-learnrate = 0.000000000008
-startweights = 10
-iterations = 20000
+learnrate = 0.00000000000000000008
+startweights = 0
+iterations = 150
 model = gradient_descent(
     ssr_gradient, X_train, y_train,
-    start=[startweights, startweights, startweights, startweights, startweights, startweights, startweights],
+    start=np.array([startweights, startweights, startweights,
+                    startweights, startweights, startweights, startweights],dtype='float128'),
     learn_rate=learnrate,
     n_iter=iterations)
 '''
