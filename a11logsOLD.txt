@@ -1,0 +1,1388 @@
+Regression Attempted at 2023-06-07 18:45:52.120948
+Learn Rate: 0.0008
+Starting Weights (all): 0.5
+Iterations: 10
+Error: 2.6134009905180815e+19
+Regression Attempted at 2023-06-07 18:46:21.352204
+Learn Rate: 0.0008
+Starting Weights (all): 0.5
+Iterations: 100
+Error: 2.613401351024882e+21
+Regression Attempted at 2023-06-07 18:46:56.213917
+Learn Rate: 0.0008
+Starting Weights (all): 0.5
+Iterations: 1000
+Error: 2.6134013870756357e+23
+Regression Attempted at 2023-06-07 18:51:49.201508
+Learn Rate: 0.0008
+Starting Weights (all): 0.5
+Iterations: 10000
+Error: 2.6134013907093977e+25
+Regression Attempted at 2023-06-07 18:53:17.589429
+Learn Rate: 0.008
+Starting Weights (all): 0.5
+Iterations: 10
+Error: 2.6134013510250246e+21
+Regression Attempted at 2023-06-07 18:53:48.599024
+Learn Rate: 0.008
+Starting Weights (all): 20
+Iterations: 100
+Error: 2.6134012292563108e+23
+Regression Attempted at 2023-06-07 18:54:05.222008
+Learn Rate: 8e-06
+Starting Weights (all): 10
+Iterations: 100
+Error: 2.6133204997007712e+17
+Regression Attempted at 2023-06-07 18:54:24.020120
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 100
+Error: 54767927.005478464
+Regression Attempted at 2023-06-07 18:54:51.748847
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 7837794.860288461
+Regression Attempted at 2023-06-07 18:55:29.447598
+Learn Rate: 8e-12
+Starting Weights (all): 0.5
+Iterations: 1000
+Error: 22281869.93022984
+Regression Attempted at 2023-06-07 18:56:04.689992
+Learn Rate: 8e-16
+Starting Weights (all): 10
+Iterations: 1000
+Error: 62587698.58454043
+Regression Attempted at 2023-06-07 18:59:24.478061
+Learn Rate: 8e-16
+Starting Weights (all): 10
+Iterations: 10000
+Error: 62514921.65173063
+Regression Attempted at 2023-06-07 19:03:29.655088
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 10000
+Error: 1867077112.8635101
+Regression Attempted at 2023-06-07 19:04:24.482100
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 7837794.860288461
+Regression Attempted at 2023-06-07 19:06:13.477996
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 7837794.860288461
+Regression Attempted at 2023-06-07 19:07:23.599291
+Train to Test Ratio: 0.9/0.1
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 145056297.86916566
+Regression Attempted at 2023-06-07 19:07:58.694457
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 43623497.341561906
+Regression Attempted at 2023-06-07 19:08:41.830489
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 189949.6055890333
+Regression Attempted at 2023-06-07 19:09:28.230921
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 7837794.860288461
+Regression Attempted at 2023-06-07 19:10:05.607225
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 12893535.776167987
+Regression Attempted at 2023-06-07 19:10:45.386610
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 80869495.9206918
+Regression Attempted at 2023-06-07 19:13:08.188145
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 1000
+Error: 189949.6055890333
+Regression Attempted at 2023-06-07 19:15:30.204979
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 10000
+Error: 9165.50508841778
+Regression Attempted at 2023-06-07 19:38:13.542215
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 100000
+Error: 10924464.393733378
+Regression Attempted at 2023-06-07 19:42:53.488534
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 20000
+Error: 79607.0297612639
+Regression Attempted at 2023-06-08 17:51:33.953550
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15000
+Error: 8687.22170745843
+Regression Attempted at 2023-06-08 17:56:31.282054
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 16000
+Error: 17159.3360034952
+Regression Attempted at 2023-06-08 18:00:56.180000
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15500
+Error: 12566.28839830043
+Regression Attempted at 2023-06-08 18:07:04.945349
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15300
+Error: 10928.984012241293
+Regression Attempted at 2023-06-08 18:11:24.194147
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15100
+Error: 9405.916572478616
+Regression Attempted at 2023-06-08 18:16:08.595768
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15000
+Error: 8687.22170745843
+CHANGED LOSS FUNCTION
+Regression Attempted at 2023-06-08 18:19:33.680821
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15000
+Error: nan
+Regression Attempted at 2023-06-08 18:23:05.576010
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 15000
+Error: inf
+Regression Attempted at 2023-06-08 18:25:45.231504
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-12
+Starting Weights (all): 10
+Iterations: 150
+Error: 8.195170756724318e+61
+Regression Attempted at 2023-06-08 18:29:39.157593
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 0.0008
+Starting Weights (all): 10
+Iterations: 150
+Error: nan
+Regression Attempted at 2023-06-08 18:31:23.914131
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 0.0008
+Starting Weights (all): 0
+Iterations: 150
+Error: nan
+Regression Attempted at 2023-06-08 18:31:34.718304
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-14
+Starting Weights (all): 0
+Iterations: 150
+Error: 1.1262092181842265
+Regression Attempted at 2023-06-08 18:31:59.058513
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-14
+Starting Weights (all): 0
+Iterations: 200
+Error: 1.215699272860298
+Regression Attempted at 2023-06-08 18:32:16.762987
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-15
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9730679758990706
+Regression Attempted at 2023-06-08 18:32:26.502814
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-15
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9730679758990706
+Regression Attempted at 2023-06-08 18:32:39.444693
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-16
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9626541330688536
+Regression Attempted at 2023-06-08 18:33:55.729812
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9615385727021738
+Regression Attempted at 2023-06-08 18:34:26.883938
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9615385727021738
+Regression Attempted at 2023-06-13 17:27:51.728745 [CHANGED ERROR FORMULA]
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 150
+Error: 0.9615385727021738
+Regression Attempted at 2023-06-13 17:36:09.072887
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 150
+My Error: 38887.42854395102
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:37:08.594142
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-16
+Starting Weights (all): 0
+Iterations: 150
+My Error: 39329.676449792
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:37:43.452424
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:38:11.631005
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): -1
+Iterations: 300
+My Error: 456495662.38251454
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:39:03.629939
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 3000
+My Error: 38888.26319809269
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:44:16.620128
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 3000
+My Error: 38888.26319809269 [START AUTONOMOUS TESTING]
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:51:49.355388
+Train to Test Ratio: 0.9/0.1
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: nan
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:51:54.367124
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: nan
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:51:58.603819
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: nan
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:52:02.377471
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: inf
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:52:05.474645
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: inf
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:52:07.944850
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: inf
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:52:09.849346
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: inf
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:52:11.212947
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: inf
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:52:11.919568
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-10
+Starting Weights (all): 0
+Iterations: 300
+My Error: inf
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 17:58:00.732223
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:58:08.794305
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:58:15.911511
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:58:19.748097
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:58:22.497882
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:58:25.226524
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:58:27.334504
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 17:58:28.299997
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:03:48.469976
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:03:53.056692
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:03:57.480992
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:04:01.573562
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:04:04.868656
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:04:07.687476
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:04:08.913457
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:04:09.665997
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:06:02.740705
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:06:07.260955
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:06:13.016514
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:06:16.422715
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:06:21.008380
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:06:23.311683
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:06:24.984299
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:06:25.953060
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:09:29.308966
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:09:35.358085
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:09:40.623601
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:09:44.121829
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:09:47.757717
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:09:49.710214
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:09:51.007641
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:09:51.772519
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:10:38.886426
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:10:44.108504
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:10:51.991743
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:10:55.489594
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:10:58.967459
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:11:03.529632
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:11:05.673731
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:11:06.385678
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:11:34.126731
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:11:44.822398
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:11:52.413195
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:11:58.607896
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:12:02.662157
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:12:06.492192
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:12:08.964801
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:12:10.217785
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:13:07.091646
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:13:12.737736
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:13:16.566802
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:13:23.405728
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:13:30.227683
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:13:37.901144
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:13:47.469232
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:13:51.722208
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:15:15.295802
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:15:20.193882
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:15:24.581363
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:15:33.592662
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:15:36.896833
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:15:40.699260
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:15:42.354386
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:15:43.027243
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:16:27.245488
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29028.326171859782
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:16:32.602331
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 22156.833605123524
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:16:38.222041
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:16:41.747815
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 38887.47247257733
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:16:45.846679
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 35797.39157934177
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:16:47.919049
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 31809.14892304341
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:16:49.431746
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29824.911446626844
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:16:50.335632
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 29605.531958695516
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:21:57.421780
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-09
+Starting Weights (all): 0
+Iterations: 300
+My Error: nan
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:22:11.181009
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-13
+Starting Weights (all): 0
+Iterations: 300
+My Error: 1.0066620883104194e+21
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:22:15.124562
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-17
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19644.94828759444
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:23:02.554806
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-13
+Starting Weights (all): 0
+Iterations: 300
+My Error: 1.0066620883104194e+21
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:23:10.351117
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-15
+Starting Weights (all): 0
+Iterations: 300
+My Error: 30744.66084687322
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:23:22.281634
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-17
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19644.94828759444
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:23:26.404787
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-19
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19557.076046988386
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:23:31.373596
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-21
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.19933169799
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:23:40.283695
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-23
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.19056474553
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:23:44.161506
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-25
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.190477076027
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:23:48.982914
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-27
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.190476199332
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:24:34.135333
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-15
+Starting Weights (all): 0
+Iterations: 300
+My Error: 30744.66084687322
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:24:48.282374
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-17
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19644.94828759444
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:24:56.746205
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-19
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19557.076046988386
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:25:08.833870
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-21
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.19933169799
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:25:13.281562
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-23
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.19056474553
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:25:17.968030
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-25
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.190477076027
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:25:26.005357
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-27
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.190476199332
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:30:33.139800
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.5
+Iterations: 300
+My Error: 95356369.06570093
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:30:40.179818
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.4
+Iterations: 300
+My Error: 61438180.619590774
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:30:44.148291
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.3
+Iterations: 300
+My Error: 34945405.11786874
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:30:48.073037
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.2
+Iterations: 300
+My Error: 15878042.560534839
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:30:51.793684
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.1
+Iterations: 300
+My Error: 4236092.947589074
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:30:55.650179
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:30:59.532589
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.1
+Iterations: 300
+My Error: 3228432.554861957
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:03.351541
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.2
+Iterations: 300
+My Error: 13862721.775080599
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:08.176387
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.3
+Iterations: 300
+My Error: 31922423.93968738
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:15.898609
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.4
+Iterations: 300
+My Error: 57407539.04868226
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:27.609250
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.5
+Iterations: 300
+My Error: 90318067.10206538
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:38.144861
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.21999456463
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:40.543912
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 150
+My Error: 19556.23475376858
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:43.298732
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 200
+My Error: 19556.24951298379
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:48.075697
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:31:55.461628
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 500
+My Error: 19556.338068511242
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:32:09.253132
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 1000
+My Error: 19556.485661956976
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:32:28.740986
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 1500
+My Error: 19556.633256527708
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:33:35.596421
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 5000
+My Error: 19557.666450022796
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TEST SIZE TESTING START
+Regression Attempted at 2023-06-13 18:35:09.548500
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.21999456463
+Original Researcher's Error: 1745.6826923076924
+AUTOMATIC TESTING START
+Regression Attempted at 2023-06-13 18:38:16.674397
+Train to Test Ratio: 0.8/0.2
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 29028.235708004646
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:20.515257
+Train to Test Ratio: 0.7/0.3
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 22156.76464080536
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:21.855656
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.21999456463
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:22.974432
+Train to Test Ratio: 0.5/0.5
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 38887.41390108888
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:23.845160
+Train to Test Ratio: 0.4/0.6
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 35797.34385976109
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:24.486487
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 31809.109001729958
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:24.924691
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 29824.878665831075
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:25.166744
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 29605.507106793306
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:27.321170
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-15
+Starting Weights (all): 0
+Iterations: 100
+My Error: 22743.620225998508
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:28.626811
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-17
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19585.731332210504
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:30.577057
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-19
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.485661956518
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:35.064584
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-21
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.193428025876
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:38.939034
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-23
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.19050570883
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:41.029314
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-25
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.19047648565
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:44.442967
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-27
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.19047619343
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:47.796922
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.5
+Iterations: 100
+My Error: 95356120.0495173
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:52.842436
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.4
+Iterations: 100
+My Error: 61438020.00579155
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:56.197806
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.3
+Iterations: 100
+My Error: 34945313.600976415
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:57.630262
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.2
+Iterations: 100
+My Error: 15878000.835071873
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:38:58.997027
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): -0.1
+Iterations: 100
+My Error: 4236081.708077924
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:00.801467
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.21999456463
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:02.742929
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.1
+Iterations: 100
+My Error: 3228424.3708217987
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:05.752806
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.2
+Iterations: 100
+My Error: 13862686.160559632
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:07.497555
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.3
+Iterations: 100
+My Error: 31922341.589208048
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:08.789008
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.4
+Iterations: 100
+My Error: 57407390.65676711
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:10.053453
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0.5
+Iterations: 100
+My Error: 90317833.36323668
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:11.839063
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.21999456463
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:14.185479
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 150
+My Error: 19556.23475376858
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:16.712244
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 200
+My Error: 19556.24951298379
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:20.425009
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 300
+My Error: 19556.27903144794
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:27.114761
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 500
+My Error: 19556.338068511242
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:39:44.331589
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 1000
+My Error: 19556.485661956976
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:40:06.159297
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 1500
+My Error: 19556.633256527708
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:41:33.781457
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 5000
+My Error: 19557.666450022796
+Original Researcher's Error: 1745.6826923076924
+Regression Attempted at 2023-06-13 18:41:35.530729
+Train to Test Ratio: 0.6/0.4
+Learn Rate: 8e-20
+Starting Weights (all): 0
+Iterations: 100
+My Error: 19556.21999456463
+Original Researcher's Error: 1745.6826923076924
