@@ -4,113 +4,117 @@ import numpy as np
 import datetime
 import matplotlib.pyplot as plt
 
-def linearRegressionModel(testsize, learnrate, startweights, iterations):
-    '''
-    Part 3: Training and Test Data
-    Although SciKit Learn has linear regression libraries, we're just using it here
-    to divide the data into 80% training data and 20% testing data.
-    '''
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=testsize, random_state=5)
-    '''
-    Part 4: Train a linear regression model
-    We train our linear regression model using code from the gradient descent lab done 
-    in class, modified for our use case. 
-    '''
-    model = gradient_descent(
-        ssr_gradient, X_train, y_train,
-        start=np.array([startweights, startweights, startweights,
-                        startweights, startweights, startweights, startweights],dtype='float128'),
-        learn_rate=learnrate,
-        n_iter=iterations)
-    '''
-    Part 5: Test the linear regression model
-    '''
-    combineddftrain = pd.concat([X_train, y_train], axis=1, join='inner')
-    sum = 0
-    num = 0
-    for index, row in combineddftrain.iterrows():
-        y_pred = model[0] + model[1] * row['MYCT'] \
-                 + model[2] * row['MMIN'] \
-                 + model[3] * row['MMAX'] \
-                 + model[4] * row['CACH'] \
-                 + model[5] * row['CHMIN'] \
-                 + model[6] * row['CHMAX']
-        sum = sum + (float(row['PRP']) - float(y_pred)) * (float(row['PRP']) - float(y_pred))
-        num = num + 1
-    myTrainMSE = sum / num
-    combineddf = pd.concat([X_test, y_test], axis=1, join='inner')
-    sum = 0
-    num = 0
-    for index, row in combineddf.iterrows():
-        y_pred = model[0] + model[1] * row['MYCT'] \
-              + model[2] * row['MMIN'] \
-              + model[3] * row['MMAX'] \
-              + model[4] * row['CACH'] \
-              + model[5] * row['CHMIN'] \
-              + model[6] * row['CHMAX']
-        sum = sum + (float(row['PRP']) - float(y_pred)) * (float(row['PRP']) - float(y_pred))
-        num = num + 1
-    myTestMSE = sum / num
-    sum = 0
-    num = 0
-    for index, row in answers.iterrows():
-        sum = sum + (float(row['PRP']) - float(row['ERP'])) * (float(row['PRP']) - float(row['ERP']))
-        num = num + 1
-    theirMSE = sum / num
-    '''
-    Part 6: Document attempts and discern quality
-    '''
-    f = open("a11logs.txt", "a")
-    f.write("Regression Attempted at " + str(datetime.datetime.now()))
-    f.write("\nTrain to Test Ratio: " + str(1-testsize) + "/" + str(testsize))
-    f.write("\nLearn Rate: " + str(learnrate))
-    f.write("\nStarting Weights (all): " + str(startweights))
-    f.write("\nIterations: " + str(iterations))
-    f.write("\nMy Training Error: " + str(myTrainMSE))
-    f.write("\nMy Test Error: " + str(myTestMSE))
-    f.write("\nOriginal Researcher's Error: " + str(theirMSE) + "\n")
-    f.close()
-    return myTrainMSE, myTestMSE
+class LinearRegressionModel:
+    def __init__(self, testsize, learnrate, startweights, iterations):
+        '''
+        Part 3: Training and Test Data
+        Although SciKit Learn has linear regression libraries, we're just using it here
+        to divide the data into 80% training data and 20% testing data.
+        '''
+        self.testsize = testsize
+        self.learnrate = learnrate
+        self.startweights = startweights
+        self.iterations = iterations
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=self.testsize, random_state=5)
+        '''
+        Part 4: Train a linear regression model
+        We train our linear regression model using code from the gradient descent lab done 
+        in class, modified for our use case. 
+        '''
+        model = self.gradient_descent(
+            self.ssr_gradient, X_train, y_train,
+                            start=np.array([self.startweights, self.startweights, self.startweights,
+                            self.startweights, self.startweights, self.startweights, self.startweights],dtype='float128'))
+        '''
+        Part 5: Test the linear regression model
+        '''
+        combineddftrain = pd.concat([X_train, y_train], axis=1, join='inner')
+        sum = 0
+        num = 0
+        for index, row in combineddftrain.iterrows():
+            y_pred = model[0] + model[1] * row['MYCT'] \
+                     + model[2] * row['MMIN'] \
+                     + model[3] * row['MMAX'] \
+                     + model[4] * row['CACH'] \
+                     + model[5] * row['CHMIN'] \
+                     + model[6] * row['CHMAX']
+            sum = sum + (float(row['PRP']) - float(y_pred)) * (float(row['PRP']) - float(y_pred))
+            num = num + 1
+        self.myTrainMSE = sum / num
+        combineddf = pd.concat([X_test, y_test], axis=1, join='inner')
+        sum = 0
+        num = 0
+        for index, row in combineddf.iterrows():
+            y_pred = model[0] + model[1] * row['MYCT'] \
+                  + model[2] * row['MMIN'] \
+                  + model[3] * row['MMAX'] \
+                  + model[4] * row['CACH'] \
+                  + model[5] * row['CHMIN'] \
+                  + model[6] * row['CHMAX']
+            sum = sum + (float(row['PRP']) - float(y_pred)) * (float(row['PRP']) - float(y_pred))
+            num = num + 1
+        self.myTestMSE = sum / num
+        sum = 0
+        num = 0
+        for index, row in answers.iterrows():
+            sum = sum + (float(row['PRP']) - float(row['ERP'])) * (float(row['PRP']) - float(row['ERP']))
+            num = num + 1
+        self.theirMSE = sum / num
+        '''
+        Part 6: Document attempts and discern quality
+        '''
+        f = open("a11logs.txt", "a")
+        f.write("Regression Attempted at " + str(datetime.datetime.now()))
+        f.write("\nTrain to Test Ratio: " + str(1-self.testsize) + "/" + str(self.testsize))
+        f.write("\nLearn Rate: " + str(self.learnrate))
+        f.write("\nStarting Weights (all): " + str(self.startweights))
+        f.write("\nIterations: " + str(self.iterations))
+        f.write("\nMy Training Error: " + str(self.myTrainMSE))
+        f.write("\nMy Test Error: " + str(self.myTestMSE))
+        f.write("\nOriginal Researcher's Error: " + str(self.theirMSE) + "\n")
+        f.close()
 
-def gradient_descent(
-     gradient, X, y, start, learn_rate=0.1, n_iter=50, tolerance=1e-06
- ):
-    vector = start
-    tempdf = pd.concat([X, y], axis=1, join='inner')
-    go = True
-    for _ in range(n_iter):
-        for index, row in tempdf.iterrows():
-            vector, loss = gradient(row, vector, learn_rate)
-            if np.all(np.abs(loss) <= tolerance):
-                go = False
-        if go == False:
-            break
-    return vector
+    def get_results(self):
+        return self.myTrainMSE, self.myTestMSE
+    def gradient_descent(
+         self, gradient, X, y, start, tolerance=1e-06
+     ):
+        vector = start
+        tempdf = pd.concat([X, y], axis=1, join='inner')
+        go = True
+        for _ in range(self.iterations):
+            for index, row in tempdf.iterrows():
+                vector, loss = gradient(row, vector, self.learnrate)
+                if np.all(np.abs(loss) <= tolerance):
+                    go = False
+            if go == False:
+                break
+        return vector
 
-def ssr_gradient(x, w, lr):
-    y_pred = w[0] + w[1] * x['MYCT'] \
-          + w[2] * x['MMIN'] \
-          + w[3] * x['MMAX'] \
-          + w[4] * x['CACH'] \
-          + w[5] * x['CHMIN'] \
-          + w[6] * x['CHMAX']
-    loss = x['PRP'] - y_pred
-    ly = 2 * loss
-    yw0 = 1
-    yw1 = x['MYCT']
-    yw2 = x['MMIN']
-    yw3 = x['MMAX']
-    yw4 = x['CACH']
-    yw5 = x['CHMIN']
-    yw6 = x['CHMAX']
-    w0up = w[0] - lr * (ly * yw0)
-    w1up = w[1] - lr * (ly * yw1)
-    w2up = w[2] - lr * (ly * yw2)
-    w3up = w[3] - lr * (ly * yw3)
-    w4up = w[4] - lr * (ly * yw4)
-    w5up = w[5] - lr * (ly * yw5)
-    w6up = w[6] - lr * (ly * yw6)
-    return np.array([w0up, w1up, w2up, w3up, w4up, w5up, w6up], dtype='float128'), loss
+    def ssr_gradient(self, x, w, lr):
+        y_pred = w[0] + w[1] * x['MYCT'] \
+              + w[2] * x['MMIN'] \
+              + w[3] * x['MMAX'] \
+              + w[4] * x['CACH'] \
+              + w[5] * x['CHMIN'] \
+              + w[6] * x['CHMAX']
+        loss = x['PRP'] - y_pred
+        ly = 2 * loss
+        yw0 = 1
+        yw1 = x['MYCT']
+        yw2 = x['MMIN']
+        yw3 = x['MMAX']
+        yw4 = x['CACH']
+        yw5 = x['CHMIN']
+        yw6 = x['CHMAX']
+        w0up = w[0] - lr * (ly * yw0)
+        w1up = w[1] - lr * (ly * yw1)
+        w2up = w[2] - lr * (ly * yw2)
+        w3up = w[3] - lr * (ly * yw3)
+        w4up = w[4] - lr * (ly * yw4)
+        w5up = w[5] - lr * (ly * yw5)
+        w6up = w[6] - lr * (ly * yw6)
+        return np.array([w0up, w1up, w2up, w3up, w4up, w5up, w6up], dtype='float128'), loss
 
 def plot(X,Y,name,xlabel,ylabel):
     plt.plot(X,Y,linestyle="",marker="o")
@@ -118,7 +122,7 @@ def plot(X,Y,name,xlabel,ylabel):
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
     plt.autoscale()
-    plt.savefig(name)
+    plt.savefig(name + ".png")
     plt.clf()
 
 if __name__ == '__main__':
@@ -180,49 +184,49 @@ if __name__ == '__main__':
     iterationsError = []
     ErrorTrain = []
     ErrorTest = []
-    currbest = [float('inf'), 0]
+    currbest = [0, 0]
     f = open("a11logs.txt", "a")
     f.write("AUTOMATIC TESTING START\n")
     f.close()
     for i in testsizeArr:
-        train, test = linearRegressionModel(i, learnrate, startweights, iterations)
-        if test > currbest[0]:
+        train, test = LinearRegressionModel(i, learnrate, startweights, iterations).get_results()
+        if test > currbest[0] or currbest[0] == 0:
             currbest = [test, i]
         testSizeError.append(test)
         ErrorTrain.append(train)
         ErrorTest.append(test)
     testsizeBest = currbest[1]
-    currbest = [float('inf'), 0]
+    currbest = [0, 0]
     plot(np.array(testsizeArr), np.array(testSizeError), "Test Size Variations", "Test Size", "Mean Squared Error")
     for i in learnrateArr:
-        train, test = linearRegressionModel(testsize, i, startweights, iterations)
+        train, test = LinearRegressionModel(testsize, i, startweights, iterations).get_results()
         learnrateError.append(test)
         ErrorTrain.append(train)
         ErrorTest.append(test)
-        if test > currbest[0]:
+        if test > currbest[0] or currbest[0] == 0:
             currbest = [test, i]
     learnrateBest = currbest[1]
-    currbest = [float('inf'), 0]
+    currbest = [0, 0]
     plot(np.array(learnrateArr), np.array(learnrateError), "Learning Rate Variations", "Learning Rate", "Mean Squared Error")
     for i in startweightsArr:
-        train, test = linearRegressionModel(testsize, learnrate, i, iterations)
+        train, test = LinearRegressionModel(testsize, learnrate, i, iterations).get_results()
         startweightsError.append(test)
         ErrorTrain.append(train)
         ErrorTest.append(test)
-        if test > currbest[0]:
+        if test > currbest[0] or currbest[0] == 0:
             currbest = [test, i]
     startweightsBest = currbest[1]
-    currbest = [float('inf'), 0]
+    currbest = [0, 0]
     plot(np.array(startweightsArr), np.array(startweightsError), "Starting Weight Variations", "Starting Weights (all)", "Mean Squared Error")
     for i in iterationsArr:
-        train, test = linearRegressionModel(testsize, learnrate, startweights, i)
+        train, test = LinearRegressionModel(testsize, learnrate, startweights, i).get_results()
         iterationsError.append(test)
         ErrorTrain.append(train)
         ErrorTest.append(test)
-        if test > currbest[0]:
+        if test > currbest[0] or currbest[0] == 0:
             currbest = [test, i]
     iterationsBest = currbest[1]
-    currbest = [float('inf'), 0]
+    currbest = [0, 0]
     plot(np.array(iterationsArr), np.array(iterationsError), "Iteration Variations", "Iterations", "Mean Squared Error")
     plot(np.array(ErrorTrain), np.array(ErrorTest), "Train Error Vs. Test Error", "Train Error", "Test Error")
-    print(linearRegressionModel(testsizeBest, learnrateBest, startweightsBest, iterationsBest))
+    print(LinearRegressionModel(testsizeBest, learnrateBest, startweightsBest, iterationsBest).get_results())
