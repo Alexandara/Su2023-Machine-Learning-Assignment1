@@ -3,205 +3,341 @@ Regression Attempted at 2023-06-13 19:18:20.934303
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 100
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:20.939524
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:20.939524
 Train to Test Ratio: 0.7/0.3
 Learn Rate: adaptive
 Iterations: 100
-My Error: 246830622945545.88Regression Attempted at 2023-06-13 19:18:20.943507
+My Error: 246830622945545.88
+Regression Attempted at 2023-06-13 19:18:20.943507
 Train to Test Ratio: 0.6/0.4
 Learn Rate: adaptive
 Iterations: 100
-My Error: 281615612757091.8Regression Attempted at 2023-06-13 19:18:20.947544
+My Error: 281615612757091.8
+Regression Attempted at 2023-06-13 19:18:20.947544
 Train to Test Ratio: 0.5/0.5
 Learn Rate: adaptive
 Iterations: 100
-My Error: 462207623848084.2Regression Attempted at 2023-06-13 19:18:20.951699
+My Error: 462207623848084.2
+Regression Attempted at 2023-06-13 19:18:20.951699
 Train to Test Ratio: 0.4/0.6
 Learn Rate: adaptive
 Iterations: 100
-My Error: 361018380461456.56Regression Attempted at 2023-06-13 19:18:20.955528
+My Error: 361018380461456.56
+Regression Attempted at 2023-06-13 19:18:20.955528
 Train to Test Ratio: 0.30000000000000004/0.7
 Learn Rate: adaptive
 Iterations: 100
-My Error: 432845806446222.9Regression Attempted at 2023-06-13 19:18:20.959182
+My Error: 432845806446222.9
+Regression Attempted at 2023-06-13 19:18:20.959182
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 100
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:18:20.962835
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:18:20.962835
 Train to Test Ratio: 0.09999999999999998/0.9
 Learn Rate: adaptive
 Iterations: 100
-My Error: 6391159426033913.0Regression Attempted at 2023-06-13 19:18:21.408256
+My Error: 6391159426033913.0
+Regression Attempted at 2023-06-13 19:18:21.408256
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 100
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:21.415287
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:21.415287
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 150
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:21.422390
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:21.422390
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 200
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:21.427061
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:21.427061
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 300
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:21.431425
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:21.431425
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 500
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:21.438397
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:21.438397
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 1000
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:21.445612
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:21.445612
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 1500
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:21.451999
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:21.451999
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 5000
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:18:21.603437
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:18:21.603437
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 100
-My Error: 97816674270096.6AUTOMATIC TESTING START
+My Error: 97816674270096.6
+AUTOMATIC TESTING START
 Regression Attempted at 2023-06-13 19:22:43.012256
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 100
-My Error: 97816674270096.6Regression Attempted at 2023-06-13 19:22:43.019210
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-13 19:22:43.019210
 Train to Test Ratio: 0.7/0.3
 Learn Rate: adaptive
 Iterations: 100
-My Error: 246830622945545.88Regression Attempted at 2023-06-13 19:22:43.023398
+My Error: 246830622945545.88
+Regression Attempted at 2023-06-13 19:22:43.023398
 Train to Test Ratio: 0.6/0.4
 Learn Rate: adaptive
 Iterations: 100
-My Error: 281615612757091.8Regression Attempted at 2023-06-13 19:22:43.030603
+My Error: 281615612757091.8
+Regression Attempted at 2023-06-13 19:22:43.030603
 Train to Test Ratio: 0.5/0.5
 Learn Rate: adaptive
 Iterations: 100
-My Error: 462207623848084.2Regression Attempted at 2023-06-13 19:22:43.035500
+My Error: 462207623848084.2
+Regression Attempted at 2023-06-13 19:22:43.035500
 Train to Test Ratio: 0.4/0.6
 Learn Rate: adaptive
 Iterations: 100
-My Error: 361018380461456.56Regression Attempted at 2023-06-13 19:22:43.042052
+My Error: 361018380461456.56
+Regression Attempted at 2023-06-13 19:22:43.042052
 Train to Test Ratio: 0.30000000000000004/0.7
 Learn Rate: adaptive
 Iterations: 100
-My Error: 432845806446222.9Regression Attempted at 2023-06-13 19:22:43.047894
+My Error: 432845806446222.9
+Regression Attempted at 2023-06-13 19:22:43.047894
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 100
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.071948
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.071948
 Train to Test Ratio: 0.09999999999999998/0.9
 Learn Rate: adaptive
 Iterations: 100
-My Error: 6391159426033913.0Regression Attempted at 2023-06-13 19:22:43.465970
+My Error: 6391159426033913.0
+Regression Attempted at 2023-06-13 19:22:43.465970
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 100
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.470006
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.470006
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 150
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.474088
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.474088
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 200
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.477806
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.477806
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 300
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.481632
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.481632
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 500
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.485437
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.485437
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 1000
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.489192
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.489192
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 1500
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.493215
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.493215
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 5000
-My Error: 243097697294847.2Regression Attempted at 2023-06-13 19:22:43.636968
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-13 19:22:43.636968
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 100
-My Error: 243097697294847.2AUTOMATIC TESTING START
+My Error: 243097697294847.2
+AUTOMATIC TESTING START
 Regression Attempted at 2023-06-15 18:53:39.673392
 Train to Test Ratio: 0.8/0.2
 Learn Rate: adaptive
 Iterations: 100
-My Error: 97816674270096.6Regression Attempted at 2023-06-15 18:53:39.678490
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-15 18:53:39.678490
 Train to Test Ratio: 0.7/0.3
 Learn Rate: adaptive
 Iterations: 100
-My Error: 246830622945545.88Regression Attempted at 2023-06-15 18:53:39.683172
+My Error: 246830622945545.88
+Regression Attempted at 2023-06-15 18:53:39.683172
 Train to Test Ratio: 0.6/0.4
 Learn Rate: adaptive
 Iterations: 100
-My Error: 281615612757091.8Regression Attempted at 2023-06-15 18:53:39.688274
+My Error: 281615612757091.8
+Regression Attempted at 2023-06-15 18:53:39.688274
 Train to Test Ratio: 0.5/0.5
 Learn Rate: adaptive
 Iterations: 100
-My Error: 462207623848084.2Regression Attempted at 2023-06-15 18:53:39.693011
+My Error: 462207623848084.2
+Regression Attempted at 2023-06-15 18:53:39.693011
 Train to Test Ratio: 0.4/0.6
 Learn Rate: adaptive
 Iterations: 100
-My Error: 361018380461456.56Regression Attempted at 2023-06-15 18:53:39.697818
+My Error: 361018380461456.56
+Regression Attempted at 2023-06-15 18:53:39.697818
 Train to Test Ratio: 0.30000000000000004/0.7
 Learn Rate: adaptive
 Iterations: 100
-My Error: 432845806446222.9Regression Attempted at 2023-06-15 18:53:39.703529
+My Error: 432845806446222.9
+Regression Attempted at 2023-06-15 18:53:39.703529
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 100
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:39.708602
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:39.708602
 Train to Test Ratio: 0.09999999999999998/0.9
 Learn Rate: adaptive
 Iterations: 100
-My Error: 6391159426033913.0Regression Attempted at 2023-06-15 18:53:40.060845
+My Error: 6391159426033913.0
+Regression Attempted at 2023-06-15 18:53:40.060845
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 100
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:40.065081
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:40.065081
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 150
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:40.069873
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:40.069873
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 200
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:40.074060
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:40.074060
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 300
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:40.078406
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:40.078406
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 500
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:40.082679
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:40.082679
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 1000
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:40.086858
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:40.086858
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 1500
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:40.090920
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:40.090920
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 5000
-My Error: 243097697294847.2Regression Attempted at 2023-06-15 18:53:40.302294
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-15 18:53:40.302294
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 100
+My Error: 243097697294847.2
+AUTOMATIC TESTING START
+Regression Attempted at 2023-06-16 22:38:53.904898
+Train to Test Ratio: 0.8/0.2
+Learn Rate: adaptive
+Iterations: 100
+My Error: 97816674270096.6
+Regression Attempted at 2023-06-16 22:38:53.913860
+Train to Test Ratio: 0.7/0.3
+Learn Rate: adaptive
+Iterations: 100
+My Error: 246830622945545.88
+Regression Attempted at 2023-06-16 22:38:53.922981
+Train to Test Ratio: 0.6/0.4
+Learn Rate: adaptive
+Iterations: 100
+My Error: 281615612757091.8
+Regression Attempted at 2023-06-16 22:38:53.934371
+Train to Test Ratio: 0.5/0.5
+Learn Rate: adaptive
+Iterations: 100
+My Error: 462207623848084.2
+Regression Attempted at 2023-06-16 22:38:53.943542
+Train to Test Ratio: 0.4/0.6
+Learn Rate: adaptive
+Iterations: 100
+My Error: 361018380461456.56
+Regression Attempted at 2023-06-16 22:38:53.951320
+Train to Test Ratio: 0.30000000000000004/0.7
+Learn Rate: adaptive
+Iterations: 100
+My Error: 432845806446222.9
+Regression Attempted at 2023-06-16 22:38:53.960821
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 100
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:53.970286
+Train to Test Ratio: 0.09999999999999998/0.9
+Learn Rate: adaptive
+Iterations: 100
+My Error: 6391159426033913.0
+Regression Attempted at 2023-06-16 22:38:54.762568
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 100
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:54.768744
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 150
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:54.778206
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 200
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:54.785713
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 300
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:54.791924
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 500
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:54.799701
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 1000
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:54.807228
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 1500
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:54.816810
+Train to Test Ratio: 0.19999999999999996/0.8
+Learn Rate: adaptive
+Iterations: 5000
+My Error: 243097697294847.2
+Regression Attempted at 2023-06-16 22:38:55.108640
 Train to Test Ratio: 0.19999999999999996/0.8
 Learn Rate: adaptive
 Iterations: 100

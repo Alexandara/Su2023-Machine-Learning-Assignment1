@@ -35,7 +35,7 @@ def linearRegressionModel(testsize, learnrate, iterations):
     f.write("\nTrain to Test Ratio: " + str(1 - testsize) + "/" + str(testsize))
     f.write("\nLearn Rate: " + str(learnrate))
     f.write("\nIterations: " + str(iterations))
-    f.write("\nMy Error: " + str(rmse))
+    f.write("\nMy Error: " + str(rmse) + "\n")
     f.close()
     return rmse
 
